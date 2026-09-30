@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://pugazhenthi2007-gp.github.io/Protfolio/sitemap.xml
